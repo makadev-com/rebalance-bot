@@ -6,8 +6,6 @@ const { getDb } = require('./db')
 
 class Bot {
 
-    shouldBenchmark = false
-
     constructor(config, exchange) {
 
         this.config = config
