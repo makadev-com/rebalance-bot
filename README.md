@@ -1,11 +1,15 @@
 # rebalance-bot
 
-Install: https://github.com/coreybutler/nvm-windows
+Setup instructions
 
-Run: nvm install v12.22.3
+Change config.js and install: https://github.com/coreybutler/nvm-windows
 
-Run: nvm use v12.22.3
+In terminal run the following commands:
 
-Run: npm install
+$ nvm install v12.22.3
 
-Run: node src/Bot.js 001
+$ nvm use v12.22.3
+
+$ npm install
+
+$ node src/Bot.js 001
