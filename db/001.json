@@ -1,0 +1,11 @@
+{
+  "stick": {
+    "amount": null,
+    "actualAmount": null,
+    "price": null,
+    "orderId": null,
+    "orderSide": null,
+    "orderStatus": null
+  },
+  "lastFilledOrderPrice": null
+}

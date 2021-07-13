@@ -1,0 +1,24 @@
+{
+  "name": "rebalance-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makadev-com/rebalance-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makadev-com/rebalance-bot/issues"
+  },
+  "homepage": "https://github.com/makadev-com/rebalance-bot#readme",
+  "dependencies": {
+    "ccxt": "^1.52.76",
+    "lowdb": "^1.0.0",
+    "winston": "^3.3.3"
+  }
+}
